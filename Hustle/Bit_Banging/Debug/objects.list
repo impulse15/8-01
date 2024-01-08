@@ -1,0 +1,6 @@
+"./Drivers_SMW/Src/GPIO_Drivers.o"
+"./Drivers_SMW/Src/SPI_Drivers.o"
+"./Src/Test_GPIO.o"
+"./Src/syscalls.o"
+"./Src/sysmem.o"
+"./Startup/startup_stm32g0b1retx.o"

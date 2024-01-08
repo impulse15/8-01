@@ -1,0 +1,7 @@
+../Drivers_SMW/Src/SPI_Drivers.c:32:9:SPI_EN_DI	4
+../Drivers_SMW/Src/SPI_Drivers.c:70:6:SPI_INI	1
+../Drivers_SMW/Src/SPI_Drivers.c:143:6:SPI_Start_End	4
+../Drivers_SMW/Src/SPI_Drivers.c:183:6:SPI_Clk_toggle	1
+../Drivers_SMW/Src/SPI_Drivers.c:203:9:SPI_Bit_Send_Rec	2
+../Drivers_SMW/Src/SPI_Drivers.c:249:6:SPI_Byte_Send_Rec	5
+../Drivers_SMW/Src/SPI_Drivers.c:286:6:SPI_MSG_Send_Rec	3

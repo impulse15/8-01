@@ -1,0 +1,7 @@
+../Drivers_SMW/Src/GPIO_Drivers.c:14:6:GPIO_EN_DI	16	static
+../Drivers_SMW/Src/GPIO_Drivers.c:78:6:GPIO_INI	16	static
+../Drivers_SMW/Src/GPIO_Drivers.c:115:6:GPIO_PIN_SEND	16	static
+../Drivers_SMW/Src/GPIO_Drivers.c:123:9:GPIO_PIN_READ	16	static
+../Drivers_SMW/Src/GPIO_Drivers.c:130:6:GPIO_PORT_SEND	16	static
+../Drivers_SMW/Src/GPIO_Drivers.c:134:10:GPIO_PORT_READ	16	static
+../Drivers_SMW/Src/GPIO_Drivers.c:138:6:GPIO_PIN_Toggle	16	static
